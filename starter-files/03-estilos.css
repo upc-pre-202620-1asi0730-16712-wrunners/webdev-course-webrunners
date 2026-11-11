@@ -1,0 +1,15 @@
+/* Actividad: prueba otros colores, tamaños y bordes. */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #eef4ff;
+}
+
+h1 {
+  color: #2457c5;
+}
+
+.tarjeta {
+  background-color: white;
+  padding: 20px;
+  border: 2px solid #2457c5;
+}
