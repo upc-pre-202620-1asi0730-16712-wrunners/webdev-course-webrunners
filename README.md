@@ -15,8 +15,8 @@ Un navegador moderno y un editor en línea gratuito, como [CodePen](https://code
 ## Estructura
 - `starter-files/`: ejercicios para comenzar.
 - `completed-examples/`: soluciones para comparar al terminar.
-- `scripts/`: guías de narración y práctica para las lecciones (no se necesita JavaScript).
-- `COURSE_PLAN.md`: resumen, lecciones y enlaces del curso (completar los campos pendientes).
+- `scripts/`: guion de narración de las lecciones (no se necesita JavaScript).
+- `COURSE_PLAN.md`: resumen, lecciones y enlaces del curso.
 
 ## Cómo realizar las prácticas
 1. Abre [CodePen](https://codepen.io/pen/).
@@ -29,11 +29,9 @@ Un navegador moderno y un editor en línea gratuito, como [CodePen](https://code
 ## Lecciones y ejemplos
 | Lección | Tema | Práctica |
 |---|---|---|
-| 1 | ¿Qué es una web? | Explorar páginas cotidianas |
-| 2 | Mi primera página HTML | `01-mi-primera-pagina.html` |
-| 3 | Etiquetas, enlaces e imágenes | `02-mi-perfil.html` |
-| 4 | Primeros estilos CSS | `03-mi-primer-css.html` y `03-estilos.css` |
-| 5 | Proyecto: perfil personal | `04-proyecto-perfil.html` y `04-proyecto-estilos.css` |
-| 6 | Errores comunes y siguientes pasos | Revisar y mejorar el proyecto |
+| 1 | ¿Qué es una página web? Tu primer HTML | `01-mi-primera-pagina.html` |
+| 2 | Elementos HTML y primeros estilos CSS | `02-mi-perfil.html`, `03-mi-primer-css.html` y `03-estilos.css` |
+| 3 | Taller guiado: tu página de perfil | `04-proyecto-perfil.html` y `04-proyecto-estilos.css` |
+| 4 | ¿Qué viene después? Vue, .NET y cómo se conecta todo | Sin práctica de código |
 
-**Importante:** Esta documentación contiene ejemplos educativos. Completa los enlaces reales de los videos y los ejercicios precargados en `COURSE_PLAN.md` antes de entregar el trabajo.
+Los enlaces a los videos y a los editores en línea están en [`COURSE_PLAN.md`](COURSE_PLAN.md).
